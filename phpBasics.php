@@ -17,7 +17,7 @@ echo "Is the dog male? $male";
 
 //Single and Double Quotes
 
-//use single quotes if the content has some type of quotation in it like bellow
+//use single quotes if the ccontent has some type of quotation in it like bellow
 echo '<p class="fun">Here is my text</p>';
 
 //Concatenation
