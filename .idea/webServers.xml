@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="399dda31-5eb6-4b4a-92a4-cfa4217459f7" name="Butler Server: Thomas" url="http://blue.butler.edu/~lhannema/CME419">
+        <fileTransfer host="thomas.butler.edu" port="22" rootFolder="/home/lhannema/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a998f226-830d-4fd6-8142-2c723ef8ef93" name="MAMP" url="http://localhost:8888">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

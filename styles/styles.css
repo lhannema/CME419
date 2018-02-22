@@ -1,0 +1,43 @@
+form{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid darkgray;
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+
+}
+
+form input{
+    border-radius: 5px;
+    margin: 10px 5px;
+    display: inline-block;
+    border-style: outset;
+}
+form textarea{
+    border-radius: 5px;
+    margin: 10px 5px 0px 5px;
+    border-style: outset;
+}
+form label{
+    margin: 10px 5px;
+    display: inline-block;
+}
+#submit{
+    background-color: forestgreen;
+    color: white;
+    border: solid 1px white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    background-color: burlywood;
+}
+
+li{
+    display: block;
+}
